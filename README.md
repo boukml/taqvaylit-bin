@@ -13,7 +13,7 @@ Une fois installé, sous windows, la combinaison [Touche Windows]+[Barre d'espac
 Binaires 
 Clavier Enrichi Taqbaylit.  Tira n maεmri :
 
-Voici la liste des caracteres  
+Voici la liste des caracteres (clavier US et CA)
   Il faut utiliser le ' accent aigu  avant les lettres r...z pour ṛ...ẓ
   accent grave (à) avant c, g , t  pour avoir čǧţ  (majus et minus)
   
@@ -27,5 +27,9 @@ Voici la liste des caracteres
 ţ Ţ :   `t  /  `T
 ṛṭṣḍḥẓ / ṚṬṢḌḤẒ   :  ‘ rtsdhz / RTSDHZ
 
+Clavoer Azerty - FR + taqvaylit
+
+utiliser ^ avec  r s t d h z c g R S T D H Z C G pour ==>  ṛ  ṣ  ṭ  ḍ  ḥ ẓ č ǧ / Ṛ Ṣ Ṭ Ḍ Ḥ Ẓ Č Ǧ
+altgr e g w  E G W T ==> ε ɣ ʷ ṭ    Σ Ɣ ʷ Ṭ
 Tanemmirt
 Kamal
